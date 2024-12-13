@@ -1,5 +1,3 @@
-Sure! Here’s the README content formatted as regular text without code blocks:
-
 # Simple Python Web Unblocker
 
 This project is a simple web unblocker implemented in Python. It sets up a local proxy server that allows users to access websites that may be blocked or restricted in their network.
